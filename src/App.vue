@@ -1,9 +1,9 @@
 <template>
-  <RefAndReactive />
+  <Example />
 </template>
 
 <script lang="ts" setup>
-import RefAndReactive from './components/ref-and-reactive.vue'
+import Example from './components/example-component.vue'
 </script>
 
 <style scoped></style>
